@@ -1,0 +1,19 @@
+{
+  "servants": [
+    {
+      "id": 1,
+      "name": "Artoria Pendragon",
+      "class": "Saber"
+    },
+    {
+      "id": 2,
+      "name": "Jeanne d'Arc",
+      "class": "Ruler"
+    },
+    {
+      "id": 3,
+      "name": "Gilgamesh",
+      "class": "Archer"
+    }
+  ]
+}
